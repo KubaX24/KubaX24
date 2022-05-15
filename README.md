@@ -1,4 +1,13 @@
 ### Hi there 👋
+---
+### About me
+Hi, I am 18 years old student 📚 from Czech Republic 🇨🇿. There is some basic info ℹ️ about me:
+- Favourite language 💬: Java
+- Favourite IDE 📑 (currently use): IntelliJ IDEA
+- Favourite framework :leaves:: Spring
+- Other languages 💬, technologies :wrench:: Kotlin, JavaScript, HTML, CSS, ReactJS
+- Currently learning :school:: JavaScript, Kotlin
+
 
 <!--
 **KubaX24/KubaX24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
