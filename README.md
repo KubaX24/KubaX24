@@ -5,8 +5,8 @@ Hi, I am 18 years old student 📚 from Czech Republic 🇨🇿. There is some b
 - Favourite language 💬: Java
 - Favourite IDE 📑 (currently use): IntelliJ IDEA
 - Favourite framework :leaves:: Spring
-- Other languages 💬, technologies :wrench:: Kotlin, JavaScript, HTML, CSS, ReactJS
-- Currently learning :school:: JavaScript, Kotlin
+- Other languages 💬, technologies :wrench:: Kotlin, JavaScript, HTML, CSS, SolidJS
+- Currently learning :school:: TypeScript, Kotlin
 
 
 <!--
