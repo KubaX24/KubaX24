@@ -1,8 +1,8 @@
 ### Hi there 👋
 ---
 ### About me
-Hi, I am 19 years old student 📚 from Czech Republic 🇨🇿. There is some basic info ℹ️ about me:
-- Favourite language 💬: Java
+Hi, I am 20 years old student 📚 from Czech Republic 🇨🇿. There is some basic info ℹ️ about me:
+- Favourite language 💬: Java, GO
 - Favourite IDE 📑 (currently use): IntelliJ IDEA
 - Favourite framework :leaves:: Spring
 - Other languages 💬, technologies :wrench:: Kotlin, JavaScript, HTML, CSS, SolidJS
