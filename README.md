@@ -1,5 +1,5 @@
 # 🚀 Moved to Codeberg!
-▶️ [codeberg.org/kubax](https://codeberg.org/kubax)
+## 🔗 [codeberg.org/kubax](https://codeberg.org/kubax)
 
 ## Why❓
 1. EU based (From Germany)
