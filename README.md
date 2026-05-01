@@ -1,25 +1,8 @@
-### Hi there 👋
----
-### About me
-Hi, I am 20 years old student 📚 from Czech Republic 🇨🇿. There is some basic info ℹ️ about me:
-- Favourite language 💬: Java, GO
-- Favourite IDE 📑 (currently use): IntelliJ IDEA
-- Favourite framework :leaves:: Spring
-- Other languages 💬, technologies :wrench:: Kotlin, JavaScript, HTML, CSS, SolidJS
-- Currently learning :school:: TypeScript, Kotlin
+# 🚀 Moved to Codeberg!
+▶️ [codeberg.org/kubax](https://codeberg.org/kubax)
 
-
-<!--
-**KubaX24/KubaX24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Why❓
+1. EU based (From Germany)
+2. Owned by non-profit
+3. No training AI models
+4. No AI bloatware
